@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I’m Wilson (Wai-Yin) Cheung
 
-<!--
-**cwywilson/cwywilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Glaciologist | Polar Expedition Guide | PhD Candidate at Queen’s University, Canada**  
+🌍 Researching glacier mass balance & cryosphere change in the Canadian Arctic  
+🛰️ Using machine learning on optical + radar satellite imagery (Sentinel-1/2, Landsat)  
+📚 Passionate about polar outreach, youth mentorship
+❄️ Over 200 days in field: Arctic, Antarctic, Alps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)

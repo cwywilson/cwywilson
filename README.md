@@ -4,7 +4,7 @@
 🌍 Researching glacier mass balance & cryosphere change in the Canadian Arctic  
 🛰️ Using machine learning on optical + radar satellite imagery (Sentinel-1/2, Landsat)  
 📚 Passionate about polar outreach, youth mentorship
-❄️ Over 200 days in field: Arctic, Antarctic, Alps  
+❄️ Over 1,000 days in field: Arctic, Antarctic, Alps  
 
 ---
 

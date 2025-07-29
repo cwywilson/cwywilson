@@ -3,7 +3,7 @@
 **Glaciologist | Polar Expedition Guide | PhD Candidate at Queen’s University, Canada**  
 🌍 Researching glacier mass balance & cryosphere change in the Canadian Arctic  
 🛰️ Using machine learning on optical + radar satellite imagery (Sentinel-1/2, Landsat)  
-📚 Passionate about polar outreach, youth mentorship
+📚 Passionate about polar outreach, youth mentorship  
 ❄️ Over 1,000 days in field: Arctic, Antarctic, Alps  
 
 ---

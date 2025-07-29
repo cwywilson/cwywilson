@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m Wilson (Wai-Yin) Cheung
 
 **Glaciologist | Polar Expedition Guide | PhD Candidate at Queen’s University, Canada**  
-🌍 Researching glacier mass balance & cryosphere change in the Canadian Arctic  
-🛰️ Using machine learning on optical + radar satellite imagery (Sentinel-1/2, Landsat)  
-📚 Passionate about polar outreach, youth mentorship  
+🌍 Investigating glacier mass balance & cryosphere change in the Canadian Arctic  
+🛰️ Using photogrammetry, remote sensing, & machine learning for snow/ice classification
+📚 Passionate about polar science outreach, youth mentorship  
 ❄️ Over 1,000 days in field: Arctic, Antarctic, Alps  
 
 ---

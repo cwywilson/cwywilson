@@ -2,7 +2,7 @@
 
 **Glaciologist | Polar Expedition Guide | PhD Candidate at Queen’s University, Canada**  
 🌍 Investigating glacier mass balance & cryosphere change in the Canadian Arctic  
-🛰️ Using photogrammetry, remote sensing, & machine learning for snow/ice classification
+🛰️ Using photogrammetry, remote sensing, & machine learning for snow/ice classification  
 📚 Passionate about polar science outreach, youth mentorship  
 ❄️ Over 1,000 days in field: Arctic, Antarctic, Alps  
 

@@ -9,4 +9,4 @@
 ---
 
 ### 🛠️ Tools & Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Google Earth Engine](https://img.shields.io/badge/-Google_Earth_Engine-4285F4?logo=google&logoColor=white&style=for-the-badge) !{[Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Google Earth Engine](https://img.shields.io/badge/-Google_Earth_Engine-4285F4?logo=google&logoColor=white&style=for-the-badge) ![Colab](https://colab.research.google.com/assets/colab-badge.svg)
